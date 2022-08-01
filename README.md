@@ -3,6 +3,6 @@ My First Repository
 
 I'm the biggest MDE fan
 
-**_THINK IT!
-DREAM IT!
+**_THINK IT!</br>
+DREAM IT!</br>
 DO IT!_**
